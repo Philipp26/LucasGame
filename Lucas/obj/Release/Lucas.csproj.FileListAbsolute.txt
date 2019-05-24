@@ -1,0 +1,5 @@
+E:\C#\Lucas\Lucas\bin\Release\Lucas.exe.config
+E:\C#\Lucas\Lucas\bin\Release\Lucas.exe
+E:\C#\Lucas\Lucas\bin\Release\Lucas.pdb
+E:\C#\Lucas\Lucas\obj\Release\Lucas.exe
+E:\C#\Lucas\Lucas\obj\Release\Lucas.pdb

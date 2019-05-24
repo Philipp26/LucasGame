@@ -1,0 +1,13 @@
+E:\C#\Lucas\Lucas\bin\Debug\Lucas.exe.config
+E:\C#\Lucas\Lucas\bin\Debug\Lucas.exe
+E:\C#\Lucas\Lucas\bin\Debug\Lucas.pdb
+E:\C#\Lucas\Lucas\obj\Debug\Lucas.csprojResolveAssemblyReference.cache
+E:\C#\Lucas\Lucas\obj\Debug\Lucas.exe
+E:\C#\Lucas\Lucas\obj\Debug\Lucas.pdb
+E:\Учеба\Практика\Lucas\Lucas\bin\Debug\Lucas.exe.config
+E:\Учеба\Практика\Lucas\Lucas\bin\Debug\Lucas.exe
+E:\Учеба\Практика\Lucas\Lucas\bin\Debug\Lucas.pdb
+E:\Учеба\Практика\Lucas\Lucas\obj\Debug\Lucas.exe
+E:\Учеба\Практика\Lucas\Lucas\obj\Debug\Lucas.pdb
+E:\Учеба\Практика\Lucas\Lucas\obj\Debug\Lucas.csproj.CoreCompileInputs.cache
+E:\Учеба\Практика\Lucas\Lucas\obj\Debug\Lucas.csprojAssemblyReference.cache
